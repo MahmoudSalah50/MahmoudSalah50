@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Mahmoud+Salah;Front-End+React+Developer;Salla+%7C+Shopify+%7C+Twig+Expert;Clean+Code+%7C+Modern+UI%2FUX" />
 </h1>
 
-<h3 align="center">⚛️ Front-End Developer | React & Tailwind Specialist | Salla Developer | UI Enthusiast 🎨</h3>
+<h3 align="center">⚛️ Front-End Developer | React & Tailwind Specialist | Salla Developer </h3>
 
 ---
 
