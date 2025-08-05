@@ -21,7 +21,7 @@
 ### 🧑‍🎨 This is me:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudSalah50/MahmoudSalah50/main/profile.jpg" width="250" alt="Mahmoud Salah" style="border-radius: 12px;" />
+  <img src="https://f.top4top.io/p_3504y7gi31.jpg" width="250" alt="Mahmoud Salah" style="border-radius: 12px;" />
 </p>
 
 > 📌 *(Upload the above image to the repo and name it `profile.jpg`)*
