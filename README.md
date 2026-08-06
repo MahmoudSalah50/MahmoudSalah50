@@ -4,11 +4,7 @@
 
 <br/>
 
-```
-> whoami
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=building+scalable+e-commerce+UIs;react.js+%2B+tailwind+%2B+clean+architecture;salla+%7C+shopify+%7C+twig+specialist;always+shipping%2C+always+learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=building+scalable+e-commerce+UIs;react.js+%2B+next.js+%2B+tailwind;salla+%7C+shopify+%7C+twig+specialist;always+shipping%2C+always+learning" />
 
 </div>
 
@@ -18,7 +14,7 @@
 <tr>
 <td width="30%" align="center" valign="top">
 
-<img src="https://f.top4top.io/p_3504y7gi31.jpg" width="200" style="border-radius: 12px; filter: grayscale(0%); border: 2px solid #00F5FF;" />
+<img src="https://f.top4top.io/p_3504y7gi31.jpg" width="200" style="border-radius: 12px; border: 2px solid #00F5FF;" />
 
 <br/><br/>
 
@@ -35,24 +31,21 @@
 </td>
 <td width="70%" valign="top">
 
-### 📟 `console.log("about_me")`
+### 🧑‍💻 About Me
 
-```yaml
-role: Front-End Developer
-specialties:
-  - React.js & Redux architecture
-  - Tailwind CSS / Sass component systems
-  - Salla theme development
-  - Shopify Liquid & Twig templating
-currently_learning: [Next.js, TypeScript, Framer Motion]
-philosophy: "Pixel-perfect isn't a nice-to-have — it's the baseline."
-```
+I'm a **Front-End Developer** focused on building fast, clean, and pixel-perfect interfaces for e-commerce platforms.
 
-### ⚡ Currently Building
+- ⚛️ Solid experience with **React.js**, **Redux**, and **Next.js**
+- 🎨 Strong command of **Tailwind CSS** and **Sass** for scalable component systems
+- 🛒 Specialized in **Salla** theme development, **Shopify Liquid**, and **Twig** templating
+- ⚡ Obsessed with **performance**, **accessibility**, and **conversion-ready UX**
+- 🌱 Currently deepening my **TypeScript** and **Framer Motion** skills
+
+### 🚧 Currently Building
 Interactive Salla storefronts with reusable React component libraries — focused on speed, accessibility, and conversion-ready UX.
 
 ### 🎯 2026 Goals
-`Next.js mastery` · `TypeScript everywhere` · `Open-source contributions` · `Level up UI motion design`
+`TypeScript everywhere` · `Framer Motion animations` · `Open-source contributions` · `Advanced Next.js patterns (SSR/ISR)`
 
 </td>
 </tr>
@@ -80,9 +73,9 @@ Interactive Salla storefronts with reusable React component libraries — focuse
 **Frameworks & Libraries**
 <br/>
 <img src="https://img.shields.io/badge/React-0F0C29?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0F0C29?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-0F0C29?style=for-the-badge&logo=redux&logoColor=764ABC" />
 <img src="https://img.shields.io/badge/Tailwind-0F0C29?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Bootstrap-0F0C29?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 
 </td>
 <td width="50%" valign="top">
@@ -122,23 +115,11 @@ Interactive Salla storefronts with reusable React component libraries — focuse
 
 <div align="center">
 
-## 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=MahmoudSalah50&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 💭 Dev Motto
 
 > *"Code is like humor — if you have to explain it, it's probably not that good."*
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
 **Thanks for stopping by — let's build something great together 🚀**
 
