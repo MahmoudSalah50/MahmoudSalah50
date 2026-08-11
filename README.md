@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=MAHMOUD%20SALAH&fontSize=50&fontColor=00F5FF&fontAlignY=35&desc=FRONT-END%20ENGINEER%20//%20REACT%20%26%20NEXT.JS%20//%20E-COMMERCE%20SPECIALIST&descAlignY=55&descSize=16&descColor=8B8FA3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=MAHMOUD%20SALAH&fontSize=48&fontColor=00F5FF&fontAlignY=38&desc=FRONT-END%20ENGINEER%20//%20REACT%20%26%20NEXT.JS%20//%20E-COMMERCE%20SPECIALIST&descAlignY=58&descSize=15&descColor=8B8FA3&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=building+scalable+e-commerce+interfaces;react.js+%2B+next.js+%2B+typescript;salla+%2B+shopify+%2B+twig+specialist;pixel-perfect+%26+performance-focused+UI;clean+code+%E2%80%A2+reusable+components+%E2%80%A2+responsive+design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=600&lines=building+scalable+e-commerce+interfaces;React.js+%2B+Next.js+%2B+TypeScript;Salla+%2B+Shopify+%2B+Twig+specialist;pixel-perfect+%26+performance-focused+UI;clean+code+%E2%80%A2+reusable+components" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-Open_to_Work-00F5FF?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/ROLE-Front--End_Engineer-8B5CF6?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/FOCUS-E--Commerce_Specialist-FF2E97?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/BASED_IN-Egypt-00F5FF?style=for-the-badge&labelColor=0F0C29" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/mahmoud-salah-412305307"><img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
-<a href="mailto:mahmoudsalah20012001@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=FF2E97" /></a>
-<a href="https://github.com/MahmoudSalah50"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+<a href="https://github.com/MahmoudSalah50"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-salah-412305307"><img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+<a href="mailto:mahmoudsalah20012001@gmail.com"><img src="https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=FF2E97" /></a>
 
 </div>
 
@@ -27,28 +20,46 @@
 
 <div align="center">
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
 </div>
 
-I'm a **Front-End Engineer** focused on building fast, clean, and pixel-perfect interfaces — with a strong specialization in **E-Commerce platforms**, where UI directly drives conversion.
+<p align="center">
+I build front-end interfaces for e-commerce platforms — turning designs into fast, responsive, pixel-perfect UI with <b>React</b> and <b>Next.js</b>. I work extensively with <b>Salla</b> and <b>Shopify</b>, writing custom storefronts and theme components in <b>Twig</b> and <b>Liquid</b>. My focus stays on clean, reusable, maintainable code and interfaces that hold up under real traffic.
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243e&height=2&width=1200" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🛒 E-Commerce Development
+
+</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**⚛️ What I Work With**
-- Solid experience with **React.js**, **Next.js**, **Redux**, and **Zustand**
-- Strong command of **TypeScript**, **Tailwind CSS**, and **Sass**
-- Specialized in **Salla** theme development, **Shopify Liquid**, and **Twig**
+**Salla**
+- Custom storefront development
+- Theme customization
+- Twig template implementation
+- Responsive product & cart interfaces
+- Front-end performance optimization
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ How I Work**
-- Focused on **performance**, **responsive design**, and **clean architecture**
-- Build **reusable, component-based** systems that scale
-- Obsessed with **pixel-perfect**, **conversion-ready** UI
+**Shopify**
+- Theme development with Liquid
+- Custom section building
+- Responsive storefront layouts
+- Product page implementation
+- Conversion-focused UI
 
 </td>
 </tr>
@@ -56,52 +67,34 @@ I'm a **Front-End Engineer** focused on building fast, clean, and pixel-perfect 
 
 <br/>
 
-<div align="center">
-
-## 🚀 Current Focus
-
-<img src="https://img.shields.io/badge/Advanced_React-0F0C29?style=flat-square&labelColor=0F0C29&color=00F5FF" />
-<img src="https://img.shields.io/badge/Next.js_(SSR/ISR)-0F0C29?style=flat-square&labelColor=0F0C29&color=8B5CF6" />
-<img src="https://img.shields.io/badge/TypeScript-0F0C29?style=flat-square&labelColor=0F0C29&color=FF2E97" />
-<img src="https://img.shields.io/badge/State_Management-0F0C29?style=flat-square&labelColor=0F0C29&color=00F5FF" />
-<img src="https://img.shields.io/badge/Performance_Optimization-0F0C29?style=flat-square&labelColor=0F0C29&color=8B5CF6" />
-<img src="https://img.shields.io/badge/Scalable_E--Commerce_Architecture-0F0C29?style=flat-square&labelColor=0F0C29&color=FF2E97" />
-<img src="https://img.shields.io/badge/Reusable_Component_Systems-0F0C29?style=flat-square&labelColor=0F0C29&color=00F5FF" />
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243e&height=2&width=1200" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-## 🛍️ E-Commerce Expertise
+## ⚛️ Front-End Engineering
 
 </div>
-
-I specialize in building custom, high-performing storefronts for **Salla** and **Shopify**, along with **Twig** and **Liquid** template development. My work sits at the intersection of design, performance, and conversion.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ Platform Development**
-- Custom **Salla** storefront development
-- **Shopify** theme customization with **Liquid**
-- **Twig** template implementation
-- End-to-end storefront theme builds
+**Core**
+- React.js & Next.js application architecture
+- TypeScript for reliable, typed codebases
+- Redux & Zustand for state management
+- Component-driven, reusable UI systems
 
 </td>
 <td width="50%" valign="top">
 
-**🎯 Conversion-Focused UI**
-- Responsive **product pages**
-- Smooth **cart experiences**
-- Optimized **checkout UI**
-- Conversion-driven layout decisions
+**Craft**
+- Tailwind CSS, Sass, and Bootstrap
+- Responsive design across all breakpoints
+- Performance-first implementation
+- Clean, maintainable, scalable code
 
 </td>
 </tr>
@@ -126,21 +119,21 @@ I specialize in building custom, high-performing storefronts for **Salla** and *
 <img src="https://img.shields.io/badge/JavaScript-0F0C29?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-0F0C29?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 
-<br/>
+<br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://img.shields.io/badge/React-0F0C29?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-0F0C29?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
-<br/>
+<br/><br/>
 
 **State Management**
 <br/>
 <img src="https://img.shields.io/badge/Redux-0F0C29?style=for-the-badge&logo=redux&logoColor=764ABC" />
 <img src="https://img.shields.io/badge/Zustand-0F0C29?style=for-the-badge&logoColor=00F5FF" />
 
-<br/>
+<br/><br/>
 
 **Styling**
 <br/>
@@ -148,23 +141,23 @@ I specialize in building custom, high-performing storefronts for **Salla** and *
 <img src="https://img.shields.io/badge/Sass-0F0C29?style=for-the-badge&logo=sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/Bootstrap-0F0C29?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 
-<br/>
+<br/><br/>
 
 **E-Commerce**
 <br/>
-<img src="https://img.shields.io/badge/Salla-0F0C29?style=for-the-badge&logoColor=00D588" />
+<img src="https://img.shields.io/badge/Salla-0F0C29?style=for-the-badge&logoColor=00F5FF" />
 <img src="https://img.shields.io/badge/Shopify-0F0C29?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
 <img src="https://img.shields.io/badge/Liquid-0F0C29?style=for-the-badge&logo=shopify&logoColor=95BF47" />
 <img src="https://img.shields.io/badge/Twig-0F0C29?style=for-the-badge&logo=twig&logoColor=B41717" />
 
-<br/>
+<br/><br/>
 
 **Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-0F0C29?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-0F0C29?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/VSCode-0F0C29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/VS_Code-0F0C29?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/Vercel-0F0C29?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
@@ -177,28 +170,30 @@ I specialize in building custom, high-performing storefronts for **Salla** and *
 
 <div align="center">
 
-## 🎯 What I Care About
+## 💼 What I Build
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="25%" align="center" valign="top">
 
-**🧩 Clean Architecture**
-Component-based, reusable, and maintainable code structures.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**⚡ Performance**
-Fast-loading, optimized interfaces that don't compromise UX.
+🛍️<br/>**E-Commerce Storefronts**
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="25%" align="center" valign="top">
 
-**📐 Pixel-Perfect UI**
-Designs implemented exactly as intended, down to the last pixel.
+⚛️<br/>**React Applications**
+
+</td>
+<td width="25%" align="center" valign="top">
+
+🚀<br/>**Next.js Applications**
+
+</td>
+<td width="25%" align="center" valign="top">
+
+🎨<br/>**Pixel-Perfect UI**
 
 </td>
 </tr>
@@ -212,14 +207,59 @@ Designs implemented exactly as intended, down to the last pixel.
 
 <div align="center">
 
+## 🧠 Engineering Principles
+
+</div>
+
+<div align="center">
+
+Clean & Maintainable Code&nbsp;&nbsp;•&nbsp;&nbsp;Reusable Components&nbsp;&nbsp;•&nbsp;&nbsp;Performance First
+<br/>
+Responsive by Default&nbsp;&nbsp;•&nbsp;&nbsp;Accessibility&nbsp;&nbsp;•&nbsp;&nbsp;Scalable Architecture&nbsp;&nbsp;•&nbsp;&nbsp;Pixel-Perfect UI
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243e&height=2&width=1200" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🚀 Currently Focused On
+
+<img src="https://img.shields.io/badge/Advanced_Next.js-0F0C29?style=flat-square&labelColor=0F0C29&color=00F5FF" />
+<img src="https://img.shields.io/badge/TypeScript-0F0C29?style=flat-square&labelColor=0F0C29&color=8B5CF6" />
+<img src="https://img.shields.io/badge/State_Management-0F0C29?style=flat-square&labelColor=0F0C29&color=FF2E97" />
+<img src="https://img.shields.io/badge/Performance_Optimization-0F0C29?style=flat-square&labelColor=0F0C29&color=00F5FF" />
+<br/>
+<img src="https://img.shields.io/badge/Scalable_Front--End_Architecture-0F0C29?style=flat-square&labelColor=0F0C29&color=8B5CF6" />
+<img src="https://img.shields.io/badge/E--Commerce_Systems-0F0C29?style=flat-square&labelColor=0F0C29&color=FF2E97" />
+<img src="https://img.shields.io/badge/Reusable_Component_Libraries-0F0C29?style=flat-square&labelColor=0F0C29&color=00F5FF" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243e&height=2&width=1200" width="100%"/>
+
+<br/>
+
+<div align="center">
+
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudSalah50&show_icons=true&theme=dark&hide_border=true&bg_color=0F0C29&title_color=00F5FF&icon_color=FF2E97&text_color=8B8FA3&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSalah50&theme=dark&hide_border=true&background=0F0C29&stroke=00F5FF&ring=FF2E97&fire=8B5CF6&currStreakLabel=00F5FF&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudSalah50&show_icons=true&theme=dark&hide_border=true&bg_color=0F0C29&title_color=00F5FF&icon_color=FF2E97&text_color=8B8FA3&border_radius=12&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSalah50&theme=dark&hide_border=true&background=0F0C29&stroke=00F5FF&ring=FF2E97&fire=8B5CF6&currStreakLabel=00F5FF&border_radius=12" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSalah50&bg_color=0F0C29&color=00F5FF&line=FF2E97&point=8B5CF6&area=true&hide_border=true" width="99%"/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSalah50&layout=compact&theme=dark&hide_border=true&bg_color=0F0C29&title_color=00F5FF&text_color=8B8FA3&border_radius=12&langs_count=8" width="50%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSalah50&bg_color=0F0C29&color=00F5FF&line=FF2E97&point=8B5CF6&area=true&hide_border=true" width="98%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSalah50&layout=compact&theme=dark&hide_border=true&bg_color=0F0C29&title_color=00F5FF&text_color=8B8FA3&border_radius=12&langs_count=8" width="48%" />
 
 </div>
 
@@ -237,11 +277,11 @@ Designs implemented exactly as intended, down to the last pixel.
 
 <br/><br/>
 
-### 📫 Let's Build Something Together
+### 📫 Let's Build Something Great
 
-<a href="https://www.linkedin.com/in/mahmoud-salah-412305307"><img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
-<a href="mailto:mahmoudsalah20012001@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=FF2E97" /></a>
-<a href="https://github.com/MahmoudSalah50"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+<a href="https://github.com/MahmoudSalah50"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-salah-412305307"><img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+<a href="mailto:mahmoudsalah20012001@gmail.com"><img src="https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=FF2E97" /></a>
 
 <br/><br/>
 
@@ -249,4 +289,4 @@ Designs implemented exactly as intended, down to the last pixel.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=100&section=footer" width="100%"/>
