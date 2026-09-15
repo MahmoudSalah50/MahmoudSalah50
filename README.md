@@ -109,21 +109,7 @@ Interfaces that match design specs exactly — responsive across every breakpoin
 
 ---
 
-## Featured Projects
 
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| *Add your project name* | React · Next.js · Tailwind | Short one-line description of the project and its impact |
-| *Add your project name* | Shopify · Liquid | Short one-line description of the project and its impact |
-| *Add your project name* | Salla · Twig | Short one-line description of the project and its impact |
-
-*(Replace these rows with your real repos — link each project name to its GitHub repository.)*
-
-</div>
-
----
 
 ## Engineering Principles
 
