@@ -115,10 +115,12 @@ I build front-end interfaces for e-commerce platforms — turning designs into f
 
 <div align="center">
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudSalah50&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSalah50&layout=compact&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/MahmoudSalah50?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/MahmoudSalah50?tab=followers)
+[![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MahmoudSalah50&label=Repositories&query=$.public_repos&style=for-the-badge&color=181717&logo=github)](https://github.com/MahmoudSalah50?tab=repositories)
 
 </div>
+
+> Note: dynamic stats-card services (like github-readme-stats) are frequently down due to shared rate limits, so this README uses stable shields.io badges instead.
 
 ---
 
