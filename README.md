@@ -11,7 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MahmoudSalah50-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSalah50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah-412305307)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=MahmoudSalah50&label=Profile%20Views&color=38BDF8&style=for-the-badge)
 
 </div>
 
@@ -81,13 +80,13 @@ I build front-end interfaces for e-commerce platforms — turning designs into f
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ E-Commerce Storefronts
+### E-Commerce Storefronts
 Custom **Salla** & **Shopify** storefronts, theme customization, and conversion-focused product/cart flows built for real traffic.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚛️ React Applications
+### React Applications
 Component-driven, scalable single-page applications with clean state management using **Redux** or **Zustand**.
 
 </td>
@@ -95,13 +94,13 @@ Component-driven, scalable single-page applications with clean state management 
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Next.js Applications
+### Next.js Applications
 Server-rendered, SEO-friendly, production-grade apps with performance baked into the architecture.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Pixel-Perfect UI
+### Pixel-Perfect UI
 Interfaces that match design specs exactly — responsive across every breakpoint, accessible by default.
 
 </td>
@@ -148,16 +147,13 @@ Interfaces that match design specs exactly — responsive across every breakpoin
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/MahmoudSalah50?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/MahmoudSalah50?tab=followers)
-[![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MahmoudSalah50&label=Repositories&query=$.public_repos&style=for-the-badge&color=181717&logo=github)](https://github.com/MahmoudSalah50?tab=repositories)
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MahmoudSalah50&theme=dark&hide_border=true&background=00000000&stroke=38BDF8&ring=6366F1&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%"/>
+[![GitHub followers](https://img.shields.io/github/followers/MahmoudSalah50?label=Followers&style=for-the-badge&color=0EA5E9&logo=github&logoColor=white)](https://github.com/MahmoudSalah50?tab=followers)
+[![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MahmoudSalah50&label=Repositories&query=$.public_repos&style=for-the-badge&color=6366F1&logo=github&logoColor=white)](https://github.com/MahmoudSalah50?tab=repositories)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://komarev.com/ghpvc/?username=MahmoudSalah50%26format=json&label=Profile%20Views&query=$.count&style=for-the-badge&color=0EA5E9)](https://github.com/MahmoudSalah50)
 
 </div>
 
-> Note: dynamic stats-card services (like github-readme-stats) are frequently down due to shared rate limits — this README leans on shields.io and demolab.com mirrors instead, which are more reliable. If a card ever shows broken again, the fix is self-hosting your own instance (I can walk you through it).
+> These badges are served by shields.io — a stable, dedicated badge service — so they render reliably instead of showing as broken images.
 
 ---
 
