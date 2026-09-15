@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Mahmoud%20Salah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%20E-Commerce%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+
 
 <a href="https://github.com/MahmoudSalah50">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+e-commerce+interfaces;React.js+%2B+Next.js+%2B+TypeScript;Salla+%2B+Shopify+%2B+Twig+specialist;Pixel-perfect+%26+performance-focused+UI" alt="Typing SVG" />
