@@ -1,16 +1,21 @@
 <div align="center">
 
-# Mahmoud Salah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Mahmoud%20Salah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%20E-Commerce%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-### Front-End Engineer — React & Next.js — E-Commerce Specialist
+<a href="https://github.com/MahmoudSalah50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+e-commerce+interfaces;React.js+%2B+Next.js+%2B+TypeScript;Salla+%2B+Shopify+%2B+Twig+specialist;Pixel-perfect+%26+performance-focused+UI" alt="Typing SVG" />
+</a>
 
-Building scalable e-commerce interfaces with clean, reusable, performance-focused code.
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MahmoudSalah50-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSalah50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah-412305307)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MahmoudSalah50&label=Profile%20Views&color=38BDF8&style=for-the-badge)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=3&section=header" width="100%"/>
 
 ---
 
@@ -24,25 +29,13 @@ I build front-end interfaces for e-commerce platforms — turning designs into f
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-black?style=flat-square&logo=shopify&logoColor=7AB55C)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,sass,bootstrap,shopify,git,github,figma,vscode,vercel&theme=dark" />
+
+<br/><br/>
+
 ![Salla](https://img.shields.io/badge/Salla-38B2AC?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-black?style=flat-square&logo=shopify&logoColor=7AB55C)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
 
 </div>
 
@@ -84,12 +77,52 @@ I build front-end interfaces for e-commerce platforms — turning designs into f
 
 ## What I Build
 
-| | |
-|---|---|
-| **E-Commerce Storefronts** | Custom Salla & Shopify storefronts built for conversion and speed |
-| **React Applications** | Component-driven, scalable single-page applications |
-| **Next.js Applications** | Server-rendered, SEO-friendly, production-grade apps |
-| **Pixel-Perfect UI** | Interfaces that match design specs exactly, across all breakpoints |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ E-Commerce Storefronts
+Custom **Salla** & **Shopify** storefronts, theme customization, and conversion-focused product/cart flows built for real traffic.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ React Applications
+Component-driven, scalable single-page applications with clean state management using **Redux** or **Zustand**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Next.js Applications
+Server-rendered, SEO-friendly, production-grade apps with performance baked into the architecture.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Pixel-Perfect UI
+Interfaces that match design specs exactly — responsive across every breakpoint, accessible by default.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| *Add your project name* | React · Next.js · Tailwind | Short one-line description of the project and its impact |
+| *Add your project name* | Shopify · Liquid | Short one-line description of the project and its impact |
+| *Add your project name* | Salla · Twig | Short one-line description of the project and its impact |
+
+*(Replace these rows with your real repos — link each project name to its GitHub repository.)*
+
+</div>
 
 ---
 
@@ -118,9 +151,13 @@ I build front-end interfaces for e-commerce platforms — turning designs into f
 [![GitHub followers](https://img.shields.io/github/followers/MahmoudSalah50?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/MahmoudSalah50?tab=followers)
 [![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MahmoudSalah50&label=Repositories&query=$.public_repos&style=for-the-badge&color=181717&logo=github)](https://github.com/MahmoudSalah50?tab=repositories)
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MahmoudSalah50&theme=dark&hide_border=true&background=00000000&stroke=38BDF8&ring=6366F1&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%"/>
+
 </div>
 
-> Note: dynamic stats-card services (like github-readme-stats) are frequently down due to shared rate limits, so this README uses stable shields.io badges instead.
+> Note: dynamic stats-card services (like github-readme-stats) are frequently down due to shared rate limits — this README leans on shields.io and demolab.com mirrors instead, which are more reliable. If a card ever shows broken again, the fix is self-hosting your own instance (I can walk you through it).
 
 ---
 
@@ -138,4 +175,14 @@ I build front-end interfaces for e-commerce platforms — turning designs into f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah-412305307)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer" width="100%"/>
+
 </div>
+
+<!--
+Optional: a live animated "snake" of your contribution graph on your GitHub profile.
+This needs a GitHub Action running in this repo (MahmoudSalah50/MahmoudSalah50) — it can't be added as a plain image link.
+Steps: Settings → your repo → add a workflow using Platane/snk, it generates an SVG on a schedule, then embed it here as:
+![snake gif](https://raw.githubusercontent.com/MahmoudSalah50/MahmoudSalah50/output/github-contribution-grid-snake.svg)
+Ask me if you want this workflow file set up.
+-->
