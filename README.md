@@ -1,94 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:134e4a,100:0f766e&height=200&section=header&text=MAHMOUD%20SALAH&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Engineer%20%E2%80%A2%20React%20%26%20Next.js%20%E2%80%A2%20E-Commerce%20Specialist&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Mahmoud%20Salah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%20E-Commerce%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/MahmoudSalah50">
-<img src="https://files.catbox.moe/o1nv8j.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #2DD4BF;" alt="Mahmoud Salah"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+e-commerce+interfaces;React.js+%2B+Next.js+%2B+TypeScript;Salla+%2B+Shopify+%2B+Twig+specialist;Pixel-perfect+%26+performance-focused+UI" alt="Typing SVG" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=680&lines=Building+scalable+e-commerce+interfaces;Pixel-perfect+%26+performance-focused+UI;Clean+code%2C+reusable+components)](https://git.io/typing-svg)
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MahmoudSalah50-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSalah50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah-412305307)
-[![Gmail](https://img.shields.io/badge/Gmail-mahmoudsalah20012001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=MahmoudSalah50&style=for-the-badge&color=0f766e&label=Profile+Views)](https://github.com/MahmoudSalah50)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=3&section=header" width="100%"/>
 
 ---
 
 ## About Me
 
-> Front-End Engineer specializing in **e-commerce platforms** — turning designs into fast, responsive, **pixel-perfect** interfaces with **React** and **Next.js**.
-
-I work daily with **Salla** and **Shopify**, writing custom storefronts and theme components in **Twig** and **Liquid**. My focus stays on clean, reusable, maintainable code — and interfaces that **hold up under real traffic**.
-
-|  |  |
-| :--- | :--- |
-| **Current focus** | Custom Salla storefronts & Shopify themes |
-| **Stack** | React / Next.js architecture with TypeScript |
-| **Approach** | Performance-first, conversion-focused UI |
-| **Standard** | Pixel-perfect across every breakpoint |
-
----
-
-## E-Commerce Development
-
-<table>
-<tr>
-<th align="left">Salla</th>
-<th align="left">Shopify</th>
-</tr>
-<tr>
-<td>
-
-- Custom storefront development
-- Theme customization
-- **Twig** template implementation
-- Responsive product & cart interfaces
-- Front-end performance optimization
-
-</td>
-<td>
-
-- Theme development with **Liquid**
-- Custom section building
-- Responsive storefront layouts
-- Product page implementation
-- Conversion-focused UI
-
-</td>
-</tr>
-</table>
-
----
-
-## Front-End Engineering
-
-<table>
-<tr>
-<th align="left">Core</th>
-<th align="left">Craft</th>
-</tr>
-<tr>
-<td>
-
-- React.js & Next.js application architecture
-- TypeScript for reliable, typed codebases
-- Redux & Zustand for state management
-- Component-driven, reusable UI systems
-
-</td>
-<td>
-
-- Tailwind CSS, Sass, and Bootstrap
-- Responsive design across all breakpoints
-- Performance-first implementation
-- Clean, maintainable, scalable code
-
-</td>
-</tr>
-</table>
+I build front-end interfaces for e-commerce platforms — turning designs into fast, responsive, pixel-perfect UI with **React** and **Next.js**. I work extensively with **Salla** and **Shopify**, writing custom storefronts and theme components in **Twig** and **Liquid**. My focus stays on clean, reusable, maintainable code and interfaces that hold up under real traffic.
 
 ---
 
@@ -96,105 +28,157 @@ I work daily with **Salla** and **Shopify**, writing custom storefronts and them
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,sass,bootstrap,shopify,git,github,figma,vscode,vercel&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<br/><br/>
 
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap&theme=dark" />
-
-**E-Commerce & Templating**
-
-<img src="https://skillicons.dev/icons?i=shopify,symfony&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Salla-008CFF?style=for-the-badge&logoColor=white" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=symfony&logoColor=black" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Liquid-9BBA2E?style=for-the-badge&logoColor=white" height="42"/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&theme=dark" />
+![Salla](https://img.shields.io/badge/Salla-38B2AC?style=flat-square&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-black?style=flat-square&logo=shopify&logoColor=7AB55C)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
 
 </div>
+
+---
+
+## E-Commerce Development
+
+### Salla
+- Custom storefront development
+- Theme customization
+- Twig template implementation
+- Responsive product & cart interfaces
+- Front-end performance optimization
+
+### Shopify
+- Theme development with Liquid
+- Custom section building
+- Responsive storefront layouts
+- Product page implementation
+- Conversion-focused UI
+
+---
+
+## Front-End Engineering
+
+### Core
+- React.js & Next.js application architecture
+- TypeScript for reliable, typed codebases
+- Redux & Zustand for state management
+- Component-driven, reusable UI systems
+
+### Craft
+- Tailwind CSS, Sass, and Bootstrap
+- Responsive design across all breakpoints
+- Performance-first implementation
+- Clean, maintainable, scalable code
 
 ---
 
 ## What I Build
 
-|  |  |  |  |
-| :---: | :---: | :---: | :---: |
-| **E-Commerce Storefronts** | **React Applications** | **Next.js Applications** | **Pixel-Perfect UI** |
-| Custom Salla & Shopify builds | Component-driven SPAs | SSR / SSG / ISR apps | Design-accurate interfaces |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### E-Commerce Storefronts
+Custom **Salla** & **Shopify** storefronts, theme customization, and conversion-focused product/cart flows built for real traffic.
+
+</td>
+<td width="50%" valign="top">
+
+### React Applications
+Component-driven, scalable single-page applications with clean state management using **Redux** or **Zustand**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Next.js Applications
+Server-rendered, SEO-friendly, production-grade apps with performance baked into the architecture.
+
+</td>
+<td width="50%" valign="top">
+
+### Pixel-Perfect UI
+Interfaces that match design specs exactly — responsive across every breakpoint, accessible by default.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| *Add your project name* | React · Next.js · Tailwind | Short one-line description of the project and its impact |
+| *Add your project name* | Shopify · Liquid | Short one-line description of the project and its impact |
+| *Add your project name* | Salla · Twig | Short one-line description of the project and its impact |
+
+*(Replace these rows with your real repos — link each project name to its GitHub repository.)*
+
+</div>
 
 ---
 
 ## Engineering Principles
 
-<div align="center">
-
-| Clean & Maintainable Code | Reusable Components | Performance First |
-| :---: | :---: | :---: |
-| Responsive by Default | Accessibility | Scalable Architecture |
-| Pixel-Perfect UI | Attention to Detail | Team Collaboration |
-
-</div>
+`Clean & Maintainable Code` `Reusable Components` `Performance First` `Responsive by Default` `Accessibility` `Scalable Architecture` `Pixel-Perfect UI`
 
 ---
 
 ## Currently Focused On
 
-```text
-Advanced Next.js           ████████░░  85%
-TypeScript                 ████████░░  85%
-State Management           ████████░░  80%
-Performance Optimization   ████████░░  80%
-Scalable Architecture      ████████░░  80%
-E-Commerce Systems         █████████░  90%
-Component Libraries        ████████░░  75%
-```
+- Advanced Next.js
+- TypeScript
+- State Management
+- Performance Optimization
+- Scalable Front-End Architecture
+- E-Commerce Systems
+- Reusable Component Libraries
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MahmoudSalah50&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSalah50&theme=gotham&hide_border=true&background=0D1117&ring=2DD4BF&fire=0F766E&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=C9D1D9" alt="GitHub Streak"/>
-<br/>
-<img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSalah50&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" alt="Top Languages"/>
+[![GitHub followers](https://img.shields.io/github/followers/MahmoudSalah50?label=Followers&style=for-the-badge&color=0EA5E9&logo=github&logoColor=white)](https://github.com/MahmoudSalah50?tab=followers)
+[![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MahmoudSalah50&label=Repositories&query=$.public_repos&style=for-the-badge&color=6366F1&logo=github&logoColor=white)](https://github.com/MahmoudSalah50?tab=repositories)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://komarev.com/ghpvc/?username=MahmoudSalah50%26format=json&label=Profile%20Views&query=$.count&style=for-the-badge&color=0EA5E9)](https://github.com/MahmoudSalah50)
 
 </div>
+
+> These badges are served by shields.io — a stable, dedicated badge service — so they render reliably instead of showing as broken images.
 
 ---
 
 ## Dev Motto
 
-<div align="center">
-
 > *"Code is like humor — if you have to explain it, it's probably not that good."*
 
-</div>
-
----
-
-## Let's Build Something Great
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSalah50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah-412305307)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
-
-**Open to collaboration on e-commerce projects, custom storefronts, and React/Next.js applications.**
-
-</div>
-
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:134e4a,100:0a0a0a&height=100&section=footer" width="100%"/>
+
+### Let's Build Something Great
+
+[![GitHub](https://img.shields.io/badge/GitHub-MahmoudSalah50-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSalah50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah-412305307)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsalah20012001@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer" width="100%"/>
+
 </div>
+
+<!--
+Optional: a live animated "snake" of your contribution graph on your GitHub profile.
+This needs a GitHub Action running in this repo (MahmoudSalah50/MahmoudSalah50) — it can't be added as a plain image link.
+Steps: Settings → your repo → add a workflow using Platane/snk, it generates an SVG on a schedule, then embed it here as:
+![snake gif](https://raw.githubusercontent.com/MahmoudSalah50/MahmoudSalah50/output/github-contribution-grid-snake.svg)
+Ask me if you want this workflow file set up.
+-->
